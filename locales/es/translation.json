@@ -32,5 +32,5 @@
   "Model description": "Descripción del modelo",
   "t-citation": "Los resultados del análisis preliminar llevados a cabo en nuestro estudio están todavía en revisión por la comunidad científica. La publicación está disponible en",
   "t-description": "Nuestro sistema predictivo ha sido diseñado utilizando las publicaciones más recientes que describen la dinámica del SARS-CoV-2. En base a estos datos, hemos creado un simulador que genera millones de trayectorias de posibles eventos desde el inicio de la pandemia, basándose en los supuestos de cómo se propaga el virus. Utilizando los datos de los fallecimientos reportados por COVID-19, entrenamos nuestro modelo para encontrar la configuración más probable que explica, en promedio, los fallecimientos observados en distintas regiones y comunidades.",
-  "t-release-code": "Estamos trabajando para liberar en breves el código y notebooks con ejemplos de uso."
+  "t-release-code": "Estamos trabajando para liberar en breve el código y notebooks con ejemplos de uso."
 }
